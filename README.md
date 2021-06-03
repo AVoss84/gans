@@ -1,2 +1,1 @@
-# gans
-Deeplearning.ai course on Generative Adversarial Networks
+# Deeplearning.ai course on Generative Adversarial Networks
